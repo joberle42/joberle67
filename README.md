@@ -1,7 +1,7 @@
 # Salut !
 
 ## À propos de moi
-Je suis un passionné de programmation et j'adore explorer de nouvelles technologies. Mon domaine d'expertise principal est le développement logiciel, mais je suis également intéressé par la cybersécurite et le jeux-video.
+Je suis actuellement etudiant a l'ecole 42. Mon domaine d'expertise principal est le développement logiciel, mais je suis également intéressé par la cybersécurite et le jeux-video.
 
 ## Mes compétences
 - Langages de programmation : C, C++, PYTHON
