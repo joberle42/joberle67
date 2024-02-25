@@ -4,7 +4,7 @@
 Je suis actuellement etudiant a l'ecole 42. Mon domaine d'expertise principal est le développement logiciel, mais je suis également intéressé par la cybersécurite et le jeux-video.
 
 ## Mes compétences
-- Langages de programmation : C, C++, PYTHON
+- Langages de programmation : C, C++, Python, Javascript, React
 - Outils de développement : Git, VS Code, Docker
 
 ## Mes projets récents
